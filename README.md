@@ -1,5 +1,3 @@
-ADME.md for your Automatic Gate Lights project:
-
 # Automatic Gate Lights
 
 This project implements an IoT-powered lighting system that dynamically adjusts brightness based on ambient light intensity. The system ensures precise control over LED intensity, enabling efficient and automated lighting solutions for home automation.
